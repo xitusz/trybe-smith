@@ -1,5 +1,5 @@
 # Trybe Smith
-[8/13] [Desenvolvimento Back-end](https://github.com/xitusz/Trybe/tree/main/03_Desenvolvimento-Back-end)
+[7/12] [Desenvolvimento Back-end](https://github.com/xitusz/Trybe/tree/main/03_Desenvolvimento-Back-end)
 
 ---
 
